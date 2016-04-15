@@ -1,0 +1,12 @@
+https://www.youtube.com/watch?v=w7r698c3yaw
+
+http://docs.oracle.com/javafx/2/ui_controls/jfxpub-ui_controls.htm
+
+https://www.youtube.com/watch?v=XvTa433Z_C0&nohtml5=False&nohtml5=False#t=12.629333
+
+http://stackoverflow.com/questions/22166610/how-to-create-a-popup-windows-in-javafx
+
+http://www.javafxtutorials.com/tutorials/switching-to-different-screens-in-javafx-and-fxml/
+
+http://www.javafxtutorials.com/tutorials/creating-a-pop-up-window-in-javafx/
+
